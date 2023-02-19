@@ -26,7 +26,7 @@ Q2. What does the command `git add` do?
 3. Adds a file to the .git directory
 4. Adds a file to the working directory
 
-Answer: 4
+Answer: 2
 
 -----
 
@@ -37,7 +37,7 @@ Q3 . What Git commands can be used to correct mistakes?
 3. `git reset` and `git revert`
 4. `git revert` and `git remove`
 
-Answer: 1
+Answer: 3
 
 -----
 
@@ -48,7 +48,7 @@ Q4. Which GitHub feature provides task automation and workflow functionality, wh
 3. Pull Requests
 4. Actions
 
-Answer: 3
+Answer: 1
 
 -----
 

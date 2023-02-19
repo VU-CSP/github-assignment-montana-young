@@ -17,7 +17,7 @@ Q1. Which statement about GitHub Classroom is true?
 
 Answer:
 
-------
+2
 
 Q2. What does the command `git add` do?
 
@@ -28,7 +28,7 @@ Q2. What does the command `git add` do?
 
 Answer:
 
-------
+4
 
 Q3 . What Git commands can be used to correct mistakes?
 
@@ -39,7 +39,7 @@ Q3 . What Git commands can be used to correct mistakes?
 
 Answer:
 
-------
+1?
 
 Q4. Which GitHub feature provides task automation and workflow functionality, which can be used to implement CI/CD?
 
@@ -50,7 +50,7 @@ Q4. Which GitHub feature provides task automation and workflow functionality, wh
 
 Answer:
 
-------
+3
 
 Q5. Pull requests provide a mechanism to request which git action?
 
@@ -59,4 +59,6 @@ Q5. Pull requests provide a mechanism to request which git action?
 3. merge
 4. push
 
-Answer:
+Answer: 
+
+3
